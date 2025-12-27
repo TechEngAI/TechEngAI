@@ -72,7 +72,9 @@ Strong interest in applying **machine learning and analytics** to solve real-wor
 ---
 
 ### 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechEngAI&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechEngAI&show_icons=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechEngAI&layout=compact)
 
 ---
 
