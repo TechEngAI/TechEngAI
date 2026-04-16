@@ -1,6 +1,6 @@
 ## Hi 👋 I'm TechEngAI
 
-Data Scientist | Machine Learning Engineer | AI Enthusiast
+Data Scientist | Machine Learning Engineer | AI Enthusiast | Backend Engineer
 
 I build **data-driven and AI-powered solutions** that transform raw data into actionable insights and scalable applications.  
 Strong interest in applying **machine learning and analytics** to solve real-world problems.
